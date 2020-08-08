@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c61e51901f3955e6f6b0a464921eadbb",
+    "revision": "afc97a9f2fd9bd1e08196b3068ce630b",
     "url": "/github.io/monsters/index.html"
   },
   {
-    "revision": "bdef6e5d710615836106",
-    "url": "/github.io/monsters/static/css/main.023d5651.chunk.css"
+    "revision": "84107f7c76a66593fb13",
+    "url": "/github.io/monsters/static/css/main.a8ff3a94.chunk.css"
   },
   {
     "revision": "78adac64eaa07ff35dea",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/monsters/static/js/2.356d906f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bdef6e5d710615836106",
-    "url": "/github.io/monsters/static/js/main.da35be1c.chunk.js"
+    "revision": "84107f7c76a66593fb13",
+    "url": "/github.io/monsters/static/js/main.49580737.chunk.js"
   },
   {
     "revision": "014d153cc333e92dbdce",
